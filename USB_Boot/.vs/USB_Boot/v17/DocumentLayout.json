@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LoPhong Corporation\\Documents\\USB_Boot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2D84FA-7BCC-4CF5-AD5E-E4B39E2DABA5}|USB_Boot\\USB_Boot.csproj|c:\\users\\lophong corporation\\documents\\usb_boot\\usb_boot\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2D84FA-7BCC-4CF5-AD5E-E4B39E2DABA5}|USB_Boot\\USB_Boot.csproj|solutionrelative:usb_boot\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2D84FA-7BCC-4CF5-AD5E-E4B39E2DABA5}|USB_Boot\\USB_Boot.csproj|c:\\users\\lophong corporation\\documents\\usb_boot\\usb_boot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2D84FA-7BCC-4CF5-AD5E-E4B39E2DABA5}|USB_Boot\\USB_Boot.csproj|solutionrelative:usb_boot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2D84FA-7BCC-4CF5-AD5E-E4B39E2DABA5}|USB_Boot\\USB_Boot.csproj|C:\\Users\\LoPhong Corporation\\Documents\\USB_Boot\\usb_boot\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F2D84FA-7BCC-4CF5-AD5E-E4B39E2DABA5}|USB_Boot\\USB_Boot.csproj|solutionrelative:usb_boot\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LoPhong Corporation\\Documents\\USB_Boot\\USB_Boot\\Program.cs",
+              "RelativeDocumentMoniker": "USB_Boot\\Program.cs",
+              "ToolTip": "C:\\Users\\LoPhong Corporation\\Documents\\USB_Boot\\USB_Boot\\Program.cs",
+              "RelativeToolTip": "USB_Boot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:34:56.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\LoPhong Corporation\\Documents\\USB_Boot\\USB_Boot\\MainView.cs",
+              "RelativeDocumentMoniker": "USB_Boot\\MainView.cs",
+              "ToolTip": "C:\\Users\\LoPhong Corporation\\Documents\\USB_Boot\\USB_Boot\\MainView.cs",
+              "RelativeToolTip": "USB_Boot\\MainView.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAUwCYBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:08:43.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LoPhong Corporation\\Documents\\USB_Boot\\USB_Boot\\MainView.cs",
+              "RelativeDocumentMoniker": "USB_Boot\\MainView.cs",
+              "ToolTip": "C:\\Users\\LoPhong Corporation\\Documents\\USB_Boot\\USB_Boot\\MainView.cs [Design]",
+              "RelativeToolTip": "USB_Boot\\MainView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:04:15.32Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
